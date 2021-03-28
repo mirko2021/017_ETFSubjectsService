@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="017_ETFSubjectsService">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-basic"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-zenit"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-collector"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src-aggregator"/>
+        <wb-resource deploy-path="/" source-path="/WebContent-Program"/>
+        <wb-resource deploy-path="/" source-path="/WebContent-Zenit"/>
+        <property name="context-root" value="017_ETFSubjectsService"/>
+        <property name="java-output-path" value="/017_ETFSubjectsService/build/classes"/>
+    </wb-module>
+</project-modules>
